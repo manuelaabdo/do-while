@@ -10,7 +10,7 @@
 
 ## Resumo da atividade
 
-Nesta atividade, proposta pela matéria de Lógica de Programação e Algoritmos (LOPAL), foi explorada a estrutura de repetição _loop do while_. Esta estrutura permite que uma ação seja executada enquanto determinada condição for verdadeira.
+Nesta atividade, proposta pela matéria de Lógica de Programação e Algoritmos (LOPAL), foi explorada a estrutura de repetição _loop do ... while_. Esta estrutura permite que uma ação seja executada enquanto determinada condição for verdadeira.
 
 A tarefa foi separada em cinco exercícios, cada um com propostas diferentes:
 
